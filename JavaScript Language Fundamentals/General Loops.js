@@ -55,11 +55,11 @@ while (i < 10);
 
 const cars = ['Ford', 'Chevy', 'Honda', 'Toyota'];
 
-// for (let i = 0; i < cars.length; i++) {
-//     const element = cars[i];
-//     console.log(element);
+for (let i = 0; i < cars.length; i++) {
+    const element = cars[i];
+    console.log(element);
 
-// }
+}
 
 
 //FOREACH LOOP

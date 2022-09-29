@@ -1,9 +1,9 @@
 
-// document.querySelector('.clear-tasks').addEventListener('click', function (e) {
-//     console.log('Hello World');
+document.querySelector('.clear-tasks').addEventListener('click', function (e) {
+    console.log('Hello World');
 
-//     e.preventDefault(); //prevent defaul behavior.
-// });
+    e.preventDefault(); //prevent defaul behavior.
+});
 
 
 document.querySelector('.clear-tasks').addEventListener('click', function onClick(e) {
